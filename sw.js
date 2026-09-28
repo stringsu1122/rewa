@@ -1,4 +1,4 @@
-const CACHE_NAME = 'rewa-offline-v12';
+const CACHE_NAME = 'rewa-offline-v13';
 const APP_FILES = [
   './',
   './index.html',

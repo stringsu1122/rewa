@@ -1,0 +1,3 @@
+Rewa v13
+Updated 2026-09-28
+Change: Statistics tab label “近7天” renamed to “本周内” (English: “This week”).
